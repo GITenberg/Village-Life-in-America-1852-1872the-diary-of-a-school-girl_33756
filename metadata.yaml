@@ -1,0 +1,43 @@
+_repo: Village-Life-in-America-1852-1872the-diary-of-a-school-girl_33756
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Sangster, Margaret Elizabeth Munson
+    aliases:
+    - Van Deth, Gerrit, Mrs.
+    - Deth, Gerrit van, Mrs.
+    birthdate: 1838
+    deathdate: 1912
+    gutenberg_agent_id: '6910'
+    url: http://www.gutenberg.org/2009/agents/6910
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Richards, Caroline Cowles
+    alias: Clarke, Caroline Cowles Richards
+    birthdate: 1842
+    deathdate: 1913
+    gutenberg_agent_id: '36587'
+    url: http://www.gutenberg.org/2009/agents/36587
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33756'
+  lccn: '13017134'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Richards, Caroline Cowles, 1842-1913'
+- !lcc 'F106'
+- !lcsh 'New York (State) -- Social life and customs'
+- !lcsh 'Canandaigua (N.Y.) -- History'
+- !lcsh 'Canandaigua (N.Y.) -- Social life and customs'
+title: "Village Life in America 1852-1872, Including the Period of the American Civil\
+  \ War\r\nAs Told in the Diary of a School-Girl"
+url: http://www.gutenberg.org/ebooks/33756
