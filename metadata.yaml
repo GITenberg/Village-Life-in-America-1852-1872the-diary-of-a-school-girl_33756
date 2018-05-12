@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '36587'
     url: http://www.gutenberg.org/2009/agents/36587
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33756#Village-Life-in-America-1852-1872the-diary-of-a-school-girl
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-09-18'
 gutenberg_type: Text
